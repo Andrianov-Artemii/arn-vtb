@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ARN VTB/Main/Scenes/Load.unity
+    guid: 6b864f7df58f14255b63ce97194387a8
+  - enabled: 1
+    path: Assets/ARN VTB/Main/Scenes/Main.unity
+    guid: e5fa982c69e5e460a9104d34486e21ef
+  - enabled: 0
+    path: Assets/Units/ARUnit/Test/Tests/ARMain/ARMain.unity
+    guid: bdba17be8dbed469bb252b9efc003baf
+  - enabled: 0
+    path: Assets/Units/PosUnit/Test/PosARTest/PosARTest.unity
+    guid: 2075ca5c77c90411da18cf7cb6f299f9
+  m_configObjects: {}
